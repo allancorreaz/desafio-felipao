@@ -1,4 +1,4 @@
-let nome = "Sasuke";
+let nome = "Naruto";
 let xp_heroi = 120000;
 let nivel;
 
