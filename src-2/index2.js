@@ -1,5 +1,5 @@
 let nome = "Naruto";
-let xp_heroi = 120000;
+let xp_heroi = 12000;
 let nivel;
 
 switch (xp_heroi){
